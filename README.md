@@ -21,5 +21,7 @@ I am solving and learning about HackingWithSwift problem sets.
 - Project 1: StormViewer; Constants and variables, UITableView, UIImageView, FileManager, Storyboards
 - Project 2: GuessTheFlag; Asset catalogs, UIButton, CALayer, UIColor, UIAlertController
 - Project 3: SocialMedia; UIBarButtonItem, UIActivityViewController, URL
+- Project 4: EasyBrowser; loadView(), WKWebView, URLRequest, UIToolbar, UIProgressView, key-value observing
+
 
 
