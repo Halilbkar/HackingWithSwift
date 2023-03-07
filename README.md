@@ -22,6 +22,8 @@ I am solving and learning about HackingWithSwift problem sets.
 - Project 2: GuessTheFlag; Asset catalogs, UIButton, CALayer, UIColor, UIAlertController
 - Project 3: SocialMedia; UIBarButtonItem, UIActivityViewController, URL
 - Project 4: EasyBrowser; loadView(), WKWebView, URLRequest, UIToolbar, UIProgressView, key-value observing
+- Project 5: WordScramble; Closures, method return values, booleans, NSRange
+
 
 
 
